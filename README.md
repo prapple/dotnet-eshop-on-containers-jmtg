@@ -8,7 +8,7 @@ Sample .NET Core reference application, powered by Microsoft, based on a simplif
 
 ![](img/eshop-webmvc-app-screenshot.png)
 
-## Build Status (GitHub Actions)
+## Build Status (GitHub bbbActions)
 
 | Image | Status | Image | Status |
 | ------------- | ------------- | ------------- | ------------- |
